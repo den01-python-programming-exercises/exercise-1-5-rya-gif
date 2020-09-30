@@ -1,7 +1,5 @@
 def main():
-    message = input('write a message:')
-    print(message)
-    print(message)
+  name = print("Hi " + "Ada lovelace")
 if __name__ == '__main__':
     main()
 
